@@ -1,0 +1,9 @@
+.sideBar {
+    width: 16%;
+    height: 10vh;
+    margin-right: 5px;
+}
+hr {
+    background-color: #dadce0;
+    border: 0.1px solid rgb(219, 219, 219);
+}
